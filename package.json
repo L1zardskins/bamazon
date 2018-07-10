@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/L1zardskins/bamazon#readme",
   "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table2": "^0.2.0",
     "inquirer": "^6.0.0",
     "mysql": "^2.15.0",
     "npm": "^6.1.0"
